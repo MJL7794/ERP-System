@@ -1,0 +1,19 @@
+# Visual Studio 缓存
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 数据库配置
+App.config
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 用户特定文件
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
